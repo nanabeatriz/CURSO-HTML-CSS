@@ -1,0 +1,20 @@
+<div class="video-preview">
+  <div class="thumbnail-row">
+    <div class="timestamp"></div>
+    <a href=""><img class="thumbs" src="" /></a>
+  </div>
+  <div class="video-info-grid">
+    <div class="channel-picture">
+      <a href=""><img class="profile-picture" src="" /></a>
+    </div>
+    <div class="video-info">
+      <a href="">
+        <p class="title"></p>
+      </a>
+      <a href="">
+        <p class="author"></p>
+      </a>
+      <p class="stats"></p>
+    </div>
+  </div>
+</div>
