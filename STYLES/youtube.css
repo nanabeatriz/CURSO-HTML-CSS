@@ -46,14 +46,16 @@
     grid-template-columns: 1fr 1fr;
   }
 }
-@media (min-width: 901px) and (max-width: 1149px) {
+@media (min-width: 901px) and (max-width: 1299px) {
   .video-grid {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
-@media (min-width: 1150px) {
+@media (min-width: 1300px) {
   .video-grid {
+    margin-left: 150px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size: 16px;
   }
 }
 
